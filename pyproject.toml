@@ -1,10 +1,10 @@
 [project]
 name = "ora_get"
-version = "0.0.1"
+version = "0.1.1"
 authors = [
   { name="Tom Russell", email="tom.russell@ouce.ox.ac.uk" },
 ]
-description = "Download from figshare"
+description = "Download from ORA"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
